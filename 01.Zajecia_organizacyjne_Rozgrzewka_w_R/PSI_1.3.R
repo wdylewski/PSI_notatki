@@ -15,3 +15,4 @@ rzuty_10000 = kostka(10000)
 print("Wyniki dla 10000 rzutów:")
 print(table(rzuty_10000))
 
+
